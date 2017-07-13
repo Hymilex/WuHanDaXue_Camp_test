@@ -1,0 +1,9 @@
+E:\homework\mvc\武汉大学试题\武汉大学试题\bin\Debug\武汉大学试题.exe.config
+E:\homework\mvc\武汉大学试题\武汉大学试题\bin\Debug\武汉大学试题.exe
+E:\homework\mvc\武汉大学试题\武汉大学试题\bin\Debug\武汉大学试题.pdb
+E:\homework\mvc\武汉大学试题\武汉大学试题\obj\Debug\武汉大学试题.csprojResolveAssemblyReference.cache
+E:\homework\mvc\武汉大学试题\武汉大学试题\obj\Debug\武汉大学试题.Form1.resources
+E:\homework\mvc\武汉大学试题\武汉大学试题\obj\Debug\武汉大学试题.Properties.Resources.resources
+E:\homework\mvc\武汉大学试题\武汉大学试题\obj\Debug\武汉大学试题.csproj.GenerateResource.Cache
+E:\homework\mvc\武汉大学试题\武汉大学试题\obj\Debug\武汉大学试题.exe
+E:\homework\mvc\武汉大学试题\武汉大学试题\obj\Debug\武汉大学试题.pdb
